@@ -1,3 +1,5 @@
+var PORT = process.env.PORT || 5000;
+
 import { Meteor } from 'meteor/meteor';
 import { Template } from 'meteor/templating';
 import { ReactiveDict } from 'meteor/reactive-dict';
