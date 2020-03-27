@@ -1,4 +1,4 @@
-var PORT = process.env.PORT || 5000;
+// var PORT = process.env.PORT || 5000;
 
 import { Meteor } from 'meteor/meteor';
 import { Template } from 'meteor/templating';
